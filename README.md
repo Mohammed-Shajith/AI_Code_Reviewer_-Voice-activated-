@@ -7,7 +7,7 @@ An AI-powered code review assistant that takes your voice input as a command , j
 
 ##  Features
 
--  **Voice-to-Code**: Speak your Python code – the bot will transcribe and review it.
+-  **Voice-to-Code**: Share your Python code – the bot will analyze and review it.
 -  **AI-based Review**: Detects code smells, errors, and offers suggestions.
 -  **Real-time Feedback**: Immediate analysis on spoken or written code.
 
@@ -15,18 +15,10 @@ An AI-powered code review assistant that takes your voice input as a command , j
 
 ## How to Run
 
-### Option 1: Run via Jupyter Notebook
+ Run via Jupyter Notebook
 1. Open the `.ipynb` file.
 2. Run all cells in order.
 3. Ensure your microphone is active and permitted.
-
-### Option 2: Run with Streamlit UI
-```bash
-pip install -r requirements.txt
-streamlit run st.py
-```
-
----
 
 ##  Requirements
 
@@ -36,7 +28,6 @@ pip install -r requirements.txt
 ```
 
 Required packages include:
-- `streamlit`
 - `speechrecognition`
 - `pyaudio`
 - `openai` or similar for AI-based suggestions
@@ -47,7 +38,6 @@ Required packages include:
 ##  Files Included
 
 - `AI_Code_Reviewer.ipynb` – Jupyter notebook for core logic.
-- `st.py` – Streamlit version of the same application (UI-based).
 - `requirements.txt` – All Python package dependencies.
 - `README.md` – You’re reading it!
 
