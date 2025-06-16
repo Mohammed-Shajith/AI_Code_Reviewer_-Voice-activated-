@@ -39,7 +39,7 @@ Required packages include:
 
 - `AI_Code_Reviewer.ipynb` – Jupyter notebook for core logic.
 - `requirements.txt` – All Python package dependencies.
-- `README.md` – You’re reading it!
+- `README.md` – This file!
 
 ---
 
