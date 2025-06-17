@@ -1,7 +1,7 @@
 # **AI Code Reviewer**  
 ### _Voice Activated_
 
-An AI-powered code review assistant that takes your voice input as a command , just say"Review code" and just give your path of any language (py,C,CPP,java), & intelligently analyzes it for potential improvements, syntax issues, and suggestions. Built using speech recognition and natural language processing libraries, this tool simplifies and speeds up the code review process.
+An AI-powered code review assistant that takes your voice input as a command , just say"Review code" and just give your path of any language (py,C,CPP,java), and intelligently analyzes it for potential improvements, syntax issues, and suggestions. Built using speech recognition and natural language processing libraries, this tool simplifies and speeds up the code review process.
 
 ---
 
@@ -20,7 +20,7 @@ An AI-powered code review assistant that takes your voice input as a command , j
 2. Run all cells in order.
 3. Ensure your microphone is active and permitted.
 
-##  Requirements
+##  Requirements to install
 
 Install dependencies using pip:
 ```bash
